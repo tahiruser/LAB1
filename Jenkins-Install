@@ -1,0 +1,39 @@
+ 3  sudo apt update
+    4  sudo apt install jenkins
+    5  sudo systemctl start jenkins
+    6  sudo systemctl status jenkins.service
+    7  java version
+    8  sudo apt install openjdk-13-jre-headless
+    9  sudo systemctl start jenkins
+   10  sudo apt install jenkins
+   11  sudo apt-get install -f
+   12  sudo apt install jenkins
+   13  sudo apt-get update jenkins
+   14  sudo apt-get install jenkins
+   15  sudo dpkg --configure -a
+   16  sudo apt update
+   17  sudo apt install openjdk-11-jre
+   18  java version
+   19  java -version
+   20  sudo apt install jenkins
+   21  sudo systemctl start jenkins
+   22  sudo dpkg --configure -a
+   23  sudo apt-get install -f
+   24  sudo apt-get clean
+   25  sudo update-alternatives --config java
+   26  java -version
+   27  sudo apt-get install jenkins
+   28  sudo systemctl start jenkins
+   29  sudo update-alternatives --config java
+   30  sudo apt-get install jenkins
+   31  sudo systemctl start jenkins
+   32  sudo systemctl stop jenkins
+   33  sudo systemctl start jenkins
+   34  sudo systemctl status jenkins
+   35  cat /var/lib/jenkins/secrets/initialAdminPassword
+   36  sudo root
+   37  su root
+   38  su sudo
+   39  sudo passwd root
+   40  su root
+   41  history
